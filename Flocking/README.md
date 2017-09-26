@@ -1,1 +1,1 @@
-Artificial Intelligence Flocking behavioral modeling (Swarm Intelligence modeling) implementing ‘Separation’, ‘Alignment’, and ‘Cohesion’ steering behaviors for independent, autonomous characters as vector functions.
+Artificial Intelligence Flocking behavioral modeling (Swarm Intelligence modeling) implementing ‘Separation’, ‘Alignment’, and ‘Cohesion’ steering behaviors for independent, autonomous characters as vector functions in Python
