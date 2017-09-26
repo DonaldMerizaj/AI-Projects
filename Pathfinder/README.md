@@ -1,0 +1,1 @@
+Most efficient Path finding search algorithms using linked list binary trees, implementation of fringe search algorithms such as Uniform, Greedy, and A*. Created an graphical design in Processing to select start/end points and create paths of resistance, mapping the most efficient path and passed nodes.
